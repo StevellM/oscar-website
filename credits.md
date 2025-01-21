@@ -2,25 +2,37 @@
 layout: page
 title: Credits
 citations:
+    - name: On birational automorphisms of double EPW-cubes
+      url: https://arxiv.org/abs/2405.15510
+      authors: Simone Billi, Stevell Muller, Tomasz Wawak
+      month: Dec.
+      year: 2024
+    - name: Automorphisms of Nikulin-type orbifolds
+      url: https://arxiv.org/abs/2411.04668
+      authors: Simon Brandhorst, Grégoire Menet, Stevell Muller
+      month: Nov.
+      year: 2024
+    - name: Finite groups of symplectic birational transformations of IHS manifolds of OG10 type
+      url: https://arxiv.org/abs/2310.06580
+      authors: Lisa Marquand, Stevell Muller
+      month: Oct.
+      year: 2024
     - name: Computing the center of a fusion category
       url: https://arxiv.org/abs/2406.13438
       authors: Fabian Mäurer, Ulrich Thiel
       month: June
       year: 2024
     - name: Invariant Grassmannians and a K3 surface with an action of order 192*2
-      url: https://arxiv.org/abs/2210.14585
+      url: https://doi.org/10.1016/j.jaca.2024.100014
       authors: Stevell Muller
-      month: Apr.
+      journal: Journal of Computational Algebra
+      volume: 10
+      month: June
       year: 2024
     - name: An arithmetic count of osculating lines
       url: https://arxiv.org/pdf/2312.12129
       authors: Giosuè Muratore
       month: Dec.
-      year: 2023
-    - name: Finite groups of symplectic birational transformations of IHS manifolds of OG10 type
-      url: https://arxiv.org/abs/2310.06580
-      authors: Lisa Marquand, Stevell Muller
-      month: Oct.
       year: 2023
     - name: Algebraic and geometric computations in OSCAR
       url: https://sinews.siam.org/Details-Page/algebraic-and-geometric-computations-in-oscar
